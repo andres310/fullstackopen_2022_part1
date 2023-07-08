@@ -1,0 +1,9 @@
+.DS_Store
+example/
+phonebook-back/node_modules
+phonebook-back/.dockerignore
+phonebook-back/Dockerfile
+phonebook-back/.env
+phonebook-back/.DS_Store
+phonebook-front/node_modules
+phonebook-front/.DS_Store
